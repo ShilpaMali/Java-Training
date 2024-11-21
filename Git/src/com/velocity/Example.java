@@ -5,7 +5,6 @@ public class Example {
 		
 		int a=20;
 		int b=30;
-		System.out.println("Hello Fellows");
 		int c=a+b;
 		System.out.println("Result is:"+c);
 		
